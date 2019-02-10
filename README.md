@@ -2,7 +2,7 @@
 This is ***Hunter's*** page.
 
 ### Example Code: HelloWorld.java
-```
+```java
 /**
   * This is a javadoc comment. Replace with a description of what this class does.
   *
