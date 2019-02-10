@@ -1,4 +1,4 @@
-## Welcome to Hunter's Page
+## Welcome to Hunter's Page 👋🏻
 This is **Hunter's** page.
 
 ### Example Code: HelloWorld.java
