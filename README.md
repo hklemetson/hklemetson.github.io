@@ -18,8 +18,8 @@ public class HelloWorld
        */
   public static void main(String[] args)
   {
-  //Prints I am Hunter Klemetson
-    System.out.println("I am Hunter Klemetson");
+  //Prints I am Hello World
+    System.out.println("Hello World");
     }
 }
 ```
